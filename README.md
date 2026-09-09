@@ -1,2 +1,2 @@
-# client_project_f26
-SI539 Project by Bocheng W
+# Client_Project_Starter_Code
+Starter code for the Fall 2026 & Winter 2027 Client Project
